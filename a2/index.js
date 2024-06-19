@@ -1,3 +1,5 @@
+// Attribution: Young Wu and Ainur Ainabekova's CS540 P4 Solution 2020
+
 const fs = require("node:fs");
 const { parse } = require("csv-parse");
 
