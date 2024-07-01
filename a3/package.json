@@ -1,0 +1,17 @@
+{
+  "name": "a3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "matrix-multiplication": "^0.5.2",
+    "not-defined": "^2.1.4",
+    "static-props": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
